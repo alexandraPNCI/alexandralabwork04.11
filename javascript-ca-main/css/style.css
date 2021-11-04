@@ -1,0 +1,34 @@
+/********************************************************************************/		
+/*  styles for all pages*/
+/********************************************************************************/
+body{ 
+	background-color: #ffecb3;	
+}
+
+.bod{
+   background-color: #02b8dd;	
+}
+
+img {
+	Padding: 5px;
+	margin: 5px;
+}
+
+footer{ 
+	background-color: #ffffff;
+	height: 30px;
+	Padding-top: 8px;
+	Padding-left: 20px;
+	Border-Radius:8px;
+}
+
+p {
+	font-family: arial;
+	font-weight: 100;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height:1.8;
+
+}
+
+
